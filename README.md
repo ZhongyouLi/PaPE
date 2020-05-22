@@ -6,7 +6,7 @@ analysis. Please refer the corresponding publication for further details.
 The shiny app has deployed on the free shiny server, Shinyapps.io, at https://iamsoshiny.shinyapps.io/pape/ 
 For users who prefer to run the app locally or modify the script, please follow the instruction below:
 
-1. Clone this repository into your local directories
+1. Clone this repository into your local directory
 2. install required packages in your R environment:
 
 ```R
