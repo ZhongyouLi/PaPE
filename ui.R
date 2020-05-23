@@ -1,4 +1,4 @@
-#library(plyr)
+library(plyr)
 library(dplyr)
 library(DT)
 library(shiny)
