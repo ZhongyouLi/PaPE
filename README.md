@@ -10,6 +10,7 @@ For users who prefer to run the app locally or modify the script, please follow 
 2. install required packages in your R environment:
 
 ```R
+install.packages("plyr")
 install.packages("dplyr")
 install.packages("DT")
 install.packages("shiny")
